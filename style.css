@@ -17,10 +17,10 @@ body {
 }
 
 #overlay {
-  width: 12%;
+  width: 13%;
   position: fixed; /* You may also use fixed depending on your needs. */
-  left: 0;
-  top: 5px; /* If you want it at the bottom you probably want bottom:0 instead */
+  left: 0px;
+  top: 0px; /* If you want it at the bottom you probably want bottom:0 instead */
   z-index: 999;
 }
 
@@ -203,7 +203,7 @@ h3 {
 .img {
   width: 90%;
   height: 200px;
-  background-color: rgb(255, 102, 0);
+  background-color: rgb(107, 43, 0);
   background-size: cover;
   background-position: center;
   margin-top: 16px;
